@@ -21,7 +21,7 @@ Use a tool like Insomnia to interact with the server. The default PORT is 3001, 
 
 ## Demo
 
-Vide Demo here: ![image](https://github.com/stavrospana/E-Commerce-Back-End-Module-13/assets/138176781/7ff6e36d-de1d-4909-98d5-a6bcb300cfd1)
+SCAN For Video Demo: ![image](https://github.com/stavrospana/E-Commerce-Back-End-Module-13/assets/138176781/7ff6e36d-de1d-4909-98d5-a6bcb300cfd1)
 
 
 
